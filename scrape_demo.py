@@ -11,6 +11,7 @@
 # libraries:
 #   BeautifulSoup4
 #   requests
+#   lxml
 
 # Import the BeautifulSoup module for web scraping.
 # 'bs' serves as shorthand so we don't have to keep typing out
