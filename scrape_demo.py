@@ -1,5 +1,5 @@
 #----------------------------------------------------------------
-# This program scrapes data from the UT Dallas comet calendar
+# This program scrapes data from the UTD ACM website
 # and displays it to the console.
 #
 # Created by Jack Sheehan
